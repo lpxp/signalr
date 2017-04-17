@@ -1,0 +1,12 @@
+F:\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\bin\Debug\SendMessageTcpTest.exe.config
+F:\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\bin\Debug\SendMessageTcpTest.exe
+F:\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\bin\Debug\SendMessageTcpTest.pdb
+F:\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\obj\Debug\SendMessageTcpTest.csprojResolveAssemblyReference.cache
+F:\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\obj\Debug\SendMessageTcpTest.Form1.resources
+F:\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\obj\Debug\SendMessageTcpTest.Properties.Resources.resources
+F:\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\obj\Debug\SendMessageTcpTest.csproj.GenerateResource.Cache
+F:\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\obj\Debug\SendMessageTcpTest.exe
+F:\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\obj\Debug\SendMessageTcpTest.pdb
+F:\PersonalCode\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\bin\Debug\SendMessageTcpTest.exe.config
+F:\PersonalCode\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\obj\Debug\SendMessageTcpTest.exe
+F:\PersonalCode\Using SignalR in WinForms and WPF\C#\SendMessageTcpTest\obj\Debug\SendMessageTcpTest.pdb

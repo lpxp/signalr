@@ -1,0 +1,6 @@
+F:\Using SignalR in WinForms and WPF\C#\WebClient\bin\WebClient.dll.config
+F:\Using SignalR in WinForms and WPF\C#\WebClient\bin\WebClient.dll
+F:\Using SignalR in WinForms and WPF\C#\WebClient\bin\WebClient.pdb
+F:\Using SignalR in WinForms and WPF\C#\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+F:\Using SignalR in WinForms and WPF\C#\WebClient\obj\Debug\WebClient.dll
+F:\Using SignalR in WinForms and WPF\C#\WebClient\obj\Debug\WebClient.pdb
